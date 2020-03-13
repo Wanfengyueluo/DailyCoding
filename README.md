@@ -16,3 +16,10 @@
 - 1071:字符串的最大公因子 :v:
 - 53:最大子序和（Kadane's Algorithm）:v:
 
+#### [2020.3.13](https://github.com/Wanfengyueluo/DailyCoding/blob/master/2020-3-13.md)
+
+- 169:多数元素 :v:
+- 70:爬楼梯 :v:
+- 198:打家劫舍 :v:
+- 746:使用最小花费爬楼梯 :v:
+
