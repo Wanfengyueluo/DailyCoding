@@ -44,9 +44,16 @@
 - 72.编辑距离 :peach:
 - 695.岛屿的最大面积 :ocean:
 
+### [2020.3.16](https://github.com/Wanfengyueluo/DailyCoding/blob/master/2020-3-16.md):pear::sob:
+
+- 01.06 .字符串压缩 :crab:
+- 98.验证二叉搜索树 :baby_chick:
+
 ## [剑指Offer系列](https://github.com/Wanfengyueluo/DailyCoding/blob/master/剑指offer.md)🏸
 
 - 34.二叉树中和为某一值的路径 ❤️
 - 55-I.二叉树的最大深度 💙
 - 55-II.平衡二叉树 💜
+- 12.矩阵中的路径 :yellow_heart:
+- 63.股票的最大利润 :blue_heart:
 
