@@ -167,3 +167,43 @@ class Solution {
 }
 ```
 
+# 2020.3.20
+
+## 07.重建二叉树
+:black_nib:解题思路：
+
+```java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+	public TreeNode buildTree(int[] preorder, int[] inorder) {
+		int len = preorder.length;
+		HashMap<Integer, Integer> map = new HashMap<>();
+		for (int i = 0; i < len; i++) {
+			map.put(inorder[i], i);
+		}
+		return helper1(preorder, 0, len - 1, inorder, 0, len - 1, map);
+	}
+
+	private TreeNode helper1(int[] preorder, int pStart, int pEnd, int[] inorder, int iStart, int iEnd, HashMap<Integer, Integer> map) {
+		if (pStart > pEnd) {
+			return null;
+		}
+		int rootValue = preorder[pStart];
+		int rootIndex = map.get(rootValue);
+		TreeNode root = new TreeNode(rootValue);
+		int len = rootIndex - iStart;
+		root.left = helper1(preorder, pStart + 1, pStart + len, inorder, iStart, rootIndex - 1, map);
+		root.right = helper1(preorder, pStart + len + 1, pEnd, inorder, rootIndex + 1, iEnd, map);
+		return root;
+	}
+}
+```
+
