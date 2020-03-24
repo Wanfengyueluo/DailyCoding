@@ -107,6 +107,12 @@
 - 17.16.按摩师 🐨
 - 16.17.连续数列 🐻
 
+### [2020.3.24](https://github.com/Wanfengyueluo/DailyCoding/blob/master/2020-3-24.md):artificial_satellite:
+
+- 997.找到小镇的法官 :grapes:
+- 1387.将整数按权重排序 :peach:
+- 207.课程表 :apple:
+
 ## [剑指Offer系列](https://github.com/Wanfengyueluo/DailyCoding/blob/master/剑指offer.md)🏸
 
 - 34.二叉树中和为某一值的路径 ❤️
