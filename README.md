@@ -113,6 +113,14 @@
 - 1387.将整数按权重排序 :peach:
 - 207.课程表 :apple:
 
+### [2020.3.25](https://github.com/Wanfengyueluo/DailyCoding/blob/master/2020-3-25.md) :sunflower:
+
+- 892.三维形体的表面积 :three:
+- 91.解码方法 :baby_chick:
+- 96.不同的二叉搜索树 :deciduous_tree:
+- 95.不同的二叉搜索树II :deciduous_tree:
+- 120.三角形最小路径和 :small_red_triangle:
+
 ## [剑指Offer系列](https://github.com/Wanfengyueluo/DailyCoding/blob/master/剑指offer.md)🏸
 
 - 34.二叉树中和为某一值的路径 ❤️
