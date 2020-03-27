@@ -129,6 +129,15 @@
 - 1277.统计全为1的正方形子矩阵 :aerial_tramway:
 - 47.礼物的最大价值 :prince:
 
+### [2020.3.27](https://github.com/Wanfengyueluo/DailyCoding/blob/master/2020-3-27.md) :banana:
+
+- 914.卡牌分组 :black_joker:
+- 210.课程表II :coffee:
+- 337.打家劫舍III :robot:
+- 394.字符串解码 :cocktail:
+- 547.朋友圈 :fried_shrimp:
+- 515.在每个树行中找最大值 :christmas_tree:
+
 ## [剑指Offer系列](https://github.com/Wanfengyueluo/DailyCoding/blob/master/剑指offer.md)🏸
 
 - 34.二叉树中和为某一值的路径 ❤️
