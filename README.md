@@ -138,6 +138,11 @@
 - 547.朋友圈 :fried_shrimp:
 - 515.在每个树行中找最大值 :christmas_tree:
 
+### [2020.3.28](https://github.com/Wanfengyueluo/DailyCoding/blob/master/2020-3-28.md) :electric_plug:
+
+- 820.单词的压缩编码 :a:
+- 1161.最大层内元素和 :christmas_tree:
+
 ## [剑指Offer系列](https://github.com/Wanfengyueluo/DailyCoding/blob/master/剑指offer.md)🏸
 
 - 34.二叉树中和为某一值的路径 ❤️
