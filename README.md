@@ -143,6 +143,19 @@
 - 820.单词的压缩编码 :a:
 - 1161.最大层内元素和 :christmas_tree:
 
+### [2020.3.30](https://github.com/Wanfengyueluo/DailyCoding/blob/master/2020-3-30.md):soccer:
+
+- 279.完全平方数 :nut_and_bolt:
+- 面试题13.机器人的运动范围 :robot:
+- 79.单词搜索 :abcd:
+- 994.腐烂的橘子 :orange:
+- 1162.地图分析 :world_map:
+- 11.盛水最多的容器 :droplet:
+- 面试题62.圆圈中最后剩下的数字 :large_blue_circle:
+- 面试题32-II.从上到下打印二叉树II :palm_tree:
+- 993.二叉树的堂兄弟节点 :tanabata_tree:
+- 面试题16.19.水域大小 :rowboat:
+
 ## [剑指Offer系列](https://github.com/Wanfengyueluo/DailyCoding/blob/master/剑指offer.md)🏸
 
 - 34.二叉树中和为某一值的路径 ❤️
