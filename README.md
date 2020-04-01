@@ -156,6 +156,15 @@
 - 993.二叉树的堂兄弟节点 :tanabata_tree:
 - 面试题16.19.水域大小 :rowboat:
 
+### [2020.4.1](https://github.com/Wanfengyueluo/DailyCoding/blob/master/2020-4-1.md):fish:
+
+- 1111.有效括号的嵌套深度 :biking_man:
+- 1046.最后一块石头的重量 :rocket:
+- 面试题40.最小的k个数 :nut_and_bolt:
+- 451.根据字符出现频率排序 :bar_chart:
+- 703.数据流中的第K大元素 :blue_heart:
+- 263.丑数 :a:
+
 ## [剑指Offer系列](https://github.com/Wanfengyueluo/DailyCoding/blob/master/剑指offer.md)🏸
 
 - 34.二叉树中和为某一值的路径 ❤️
