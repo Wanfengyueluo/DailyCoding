@@ -165,6 +165,13 @@
 - 703.数据流中的第K大元素 :blue_heart:
 - 263.丑数 :a:
 
+### [2020.4.2](https://github.com/Wanfengyueluo/DailyCoding/blob/master/2020-4-2.md):tiger:
+
+- 1267.统计参与通信的服务器 :cop:
+- 841.钥匙和房间 :hotel:
+- 289.生命游戏 :game_die:
+- 990.等式方程的可满足性 :eagle:
+
 ## [剑指Offer系列](https://github.com/Wanfengyueluo/DailyCoding/blob/master/剑指offer.md)🏸
 
 - 34.二叉树中和为某一值的路径 ❤️
