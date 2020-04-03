@@ -172,6 +172,10 @@
 - 289.生命游戏 :game_die:
 - 990.等式方程的可满足性 :eagle:
 
+### [2020.4.3](https://github.com/Wanfengyueluo/DailyCoding/blob/master/2020-4-3.md):rabbit:
+
+- 8.字符串转换整数(atoi) :athletic_shoe:
+
 ## [剑指Offer系列](https://github.com/Wanfengyueluo/DailyCoding/blob/master/剑指offer.md)🏸
 
 - 34.二叉树中和为某一值的路径 ❤️
