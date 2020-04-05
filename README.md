@@ -2,6 +2,10 @@
 
 ## 每日打卡系列 ⤴️⏫😭
 
+### [2020.4.5](https://github.com/Wanfengyueluo/DailyCoding/blob/master/2020-4-5.md):blue_heart:
+
+- 460.LFU缓存 :hamburger:
+
 ### [2020.4.4](https://github.com/Wanfengyueluo/DailyCoding/blob/master/2020-4-4.md):black_heart:
 
 - 42.接雨水:cloud_with_rain:
